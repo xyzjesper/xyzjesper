@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [nexocrew](https://nexocrew.com)
 
-- 👯 I’m looking to collaborate on [moonlight](moonlightpanel.xyz)
+- 👯 I’m looking to collaborate on [moonlight](https://moonlightpanel.xyz)
 
 - 👨‍💻 All of my projects are available at [https://jesperrichert.xyz](https://jesperrichert.xyz)
 
 - 📝 I regularly write articles on [https://nexocrew.com/blog](https://nexocrew.com/blog)
 
-- 💬 Ask me about **discord, minecraft,**
+- 💬 Ask me about **discord, minecraft, docker, my languages, etc.**
 
 - 📫 How to reach me **contact@jesperrichert.xyz**
 
