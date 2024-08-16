@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesperrichert" alt="jesperrichert" /></a> </p>
 
-- 🔭 I’m currently working on [nexocrew](https://nexocrew.com)
+- 🔭 I’m currently working for [nexocrew](https://nexocrew.com) & [TechsCode](https://techscode.com)
 
 - 👯 I’m looking to collaborate on [moonlight](https://moonlightpanel.xyz)
 
