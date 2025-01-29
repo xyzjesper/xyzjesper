@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Web Development/Backend & Frontend**
 
-- 📫 How to reach me **contact@xyzjesper.dev / contact@xyzjesper.tech**
+- 📫 How to reach me **contact@jesforge.me**
 
 - ⚡ Fun fact **I code since 2022 and start my fist project 2021**
 
