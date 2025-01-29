@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Nexocrew & Techscode**
 
-- 👨‍💻 All of my projects are available at [https://xyzjesper.tech](https://xyzjesper.tech)
+- 👨‍💻 All of my projects are available at https://jesforge.me/
 
 - 💬 Ask me about **Web Development/Backend & Frontend**
 
