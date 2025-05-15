@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hey 👋, I'm Jesforge</h1>
+<h1 align="center">Hey 👋, I'm Jesper</h1>
 <p>More and about some Projects and my learning on https://jesforge.dev</p>
 
 ###
@@ -18,19 +18,19 @@
   <a href="https://discord.com/users/850470027026759690" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
-  <a href="https://youtube.com/@jesforge" target="_blank">
+  <a href="https://youtube.com/@xyzjesper" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/_jesforge/" target="_blank">
+  <a href="https://www.instagram.com/xyzjesper/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
   <a href="mailto:me@jesforge.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://ko-fi.com/jesforge" target="_blank">
+  <a href="https://ko-fi.com/xyzjesper" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="ko-fi logo"  />
   </a>
-  <a href="https://twitch.tv/jesforge" target="_blank">
+  <a href="https://twitch.tv/xyzjesper" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitch logo"  />
   </a>
 </div>
