@@ -1,7 +1,7 @@
 # Hey there ✨, I'm Jesper
 
-Willkommen auf meinem GitHub! Ich bin **xyzjesper**, kreativer Entwickler, Systemarchitekt und Tech-Enthusiast.  
-Hier findest du Projekte rund um Web, Bots, Tools und mehr – alles mit ❤️ zum Detail.
+Welcome to my GitHub! I'm **xyzjesper**, creative developer, system architect and tech enthusiast.  
+Here you'll find projects around web, bots, tools and more - all with ❤️ attention to detail.
 
 ---
 
