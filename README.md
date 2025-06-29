@@ -15,7 +15,6 @@ Here you'll find projects around web, bots, tools and more - all with ❤️ att
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/199d4e26-1b08-418a-9888-bac8866a4e4c" alt="Preview 3" width="100"/>
-  <img src="https://i.imgur.com/rXydsjA.png" alt="Logo" width="100"/>
 </p>
 
 ---
