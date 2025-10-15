@@ -20,3 +20,16 @@ Here you'll find projects around web, bots, tools and more - all with ❤️ att
 ---
 ### 🌍 Website → https://xyzjesper.dev
 
+## Tech Stack
+<p align="center">
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,go,rust,java,kotlin,python,laravel,prisma,tauri,bun" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
+<img src="https://skillicons.dev/icons?i=docker,git,linux,gradle,discordjs" />
+  <p>And a bit more :D</p>
+</p>
+
+## Stats
+
+[![xyzjespers's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyzjesper&show_icons=true)
