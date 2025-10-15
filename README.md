@@ -26,7 +26,7 @@ Here you'll find projects around web, bots, tools and more - all with ❤️ att
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,nextjs,tailwind" />
 <img src="https://skillicons.dev/icons?i=cs,dotnet,go,rust,java,kotlin,python,laravel,prisma,tauri,bun" />
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
-<img src="https://skillicons.dev/icons?i=docker,git,linux,gradle,discordjs" />
+<img src="https://skillicons.dev/icons?i=docker,git,linux,gradle,discord" />
   <p>And a bit more :D</p>
 </p>
 
