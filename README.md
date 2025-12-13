@@ -5,7 +5,7 @@ Here you'll find projects around web, bots, tools and more - all with ❤️ att
 
 ---
 
-## 🌐 Projekte & Vorschau
+## 🌐 Projects
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d4a7422f-9aa4-4c92-aea4-6ac906c4096d" alt="xyzspace-full" width="100"/>
