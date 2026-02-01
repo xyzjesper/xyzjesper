@@ -33,7 +33,3 @@ Here you'll find projects around web, bots, tools and more - all with ❤️ att
 <img src="https://skillicons.dev/icons?i=docker,git,linux,gradle,discord" />
   <p>And a bit more :D</p>
 </p>
-
-## Stats
-
-[![xyzjespers's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyzjesper&show_icons=true)
