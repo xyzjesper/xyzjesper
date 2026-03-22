@@ -13,11 +13,6 @@ Here you'll find projects around web, bots, tools and more - all with ❤️ att
 </p>
 
 <p align="center">
-      <img src="https://github.com/xyzspace-dev.png" alt="xyzspace-full" width="100"/>
-  <img src="https://avatars.githubusercontent.com/u/246523943?s=200&v=4" alt="xyzspace-full" width="100"/>
-</p>
-
-<p align="center">
     <img src="https://i.imgur.com/ScgLblK.png" alt="Preview 2" width="100"/>
 </p>
 
