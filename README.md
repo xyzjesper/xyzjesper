@@ -1,6 +1,6 @@
 # Hey there ✨, I'm Jesper
 
-Welcome to my GitHub! I'm **xyzjesper**, creative developer, system architect and tech enthusiast.  
+Welcome to my GitHub! I'm **jespersen**, creative developer, system architect and tech enthusiast.  
 Here you'll find projects around web, bots, tools and more - all with ❤️ attention to detail.
 
 ---
