@@ -17,7 +17,7 @@ Here you'll find projects around web, bots, tools and more - all with ❤️ att
 </p>
 
 ---
-### 🌍 Website → https://xyzjesper.dev
+### 🌍 Website → https://jespersen.zip
 
 ## Tech Stack
 <p align="center">
