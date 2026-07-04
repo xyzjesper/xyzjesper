@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm **jespersen**, creative developer, system architect and tech enthusiast.  
 Here you'll find projects around web, bots, tools and more - all with ❤️ attention to detail.
-Also working for @Dataport (Dataport AöR)
+Also working for [@Dataport (Dataport AöR)](https://github.com/Dataport)
 
 ---
 
