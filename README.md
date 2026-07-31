@@ -47,7 +47,7 @@
 
 ###
 
-<div data-importer="techs" align="center">
+<div id="#tech" data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
