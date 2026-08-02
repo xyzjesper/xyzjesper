@@ -7,8 +7,8 @@
 ###
 
 <h5 data-importer="text" align="left">Welcome to my GitHub! I'm <b><i>Jesper aka jespersen</i></b>, creative developer, system architect and tech enthusiast.  <br>Here you'll find projects all with made  with ❤️ attention to detail and open soure.</h5>
-<h6 data-importer="text" align="left">Fun fact i like file extensions 🫠</h6>
-<h6 data-importer="text" align="left">Working for <a href="https://github.com/Dataport">@Dataport (Dataport AöR)</a>...</h6>
+Fun fact i like file extensions 🫠
+Working for <a href="https://github.com/Dataport">@Dataport (Dataport AöR)</a>...
 
 ###
 
